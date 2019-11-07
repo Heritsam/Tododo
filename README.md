@@ -1,6 +1,6 @@
 # tododo
 
-A new Flutter project.
+Simple to-do app built with Flutter + Provider
 
 <div style="text-align: center">
     <table>
@@ -18,10 +18,10 @@ A new Flutter project.
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://github.com/Heritsam/Tododo/blob/master/screenshots/tododo_1.png" height="400">
+                <img src="https://github.com/Heritsam/Tododo/blob/master/screenshots/tododo_3.png" height="400">
             </td>
             <td style="text-align: center">
-                <img src="https://github.com/Heritsam/Tododo/blob/master/screenshots/tododo_2.png" height="400">
+                <img src="https://github.com/Heritsam/Tododo/blob/master/screenshots/tododo_4.png" height="400">
             </td>
         </tr>
     </table>
@@ -39,3 +39,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Credit
+
+From a tutorial: <a href="https://dev.to/shakib609/create-a-todos-app-with-flutter-and-provider-jdh">Create a Todos app with Flutter and Provider</a>
