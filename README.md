@@ -42,4 +42,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Credit
 
-From a tutorial: <a href="https://dev.to/shakib609/create-a-todos-app-with-flutter-and-provider-jdh">Create a Todos app with Flutter and Provider</a>
+From a tutorial: <a href="https://dev.to/shakib609/create-a-todos-app-with-flutter-and-provider-jdh" target="_blank">Create a Todos app with Flutter and Provider</a>
